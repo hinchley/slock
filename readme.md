@@ -8,7 +8,7 @@ It is based on version 1.5 of slock with updated colours from the Catppuccin the
 To build and install slock:
 
 ```
-git clone https://gihub.com/hinchley/slock.git
+git clone https://github.com/hinchley/slock.git
 cd slock
 ./build.sh
 ```
