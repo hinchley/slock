@@ -2,7 +2,7 @@
 This is Pete Hinchley's fork of slock: https://tools.suckless.org/slock/
 
 ## Changes
-It is based on version 1.5 of slock with updated colours from the Catppuccin theme.
+It is based on version 1.5 of slock with updated colours from the Dracula theme.
 
 ## Build
 To build and install slock:
